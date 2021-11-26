@@ -1,0 +1,10 @@
+{
+	"name": "K-L9-S-2",
+	"short_name": "K-L9-S-2",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": []
+}
